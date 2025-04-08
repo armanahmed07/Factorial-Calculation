@@ -2,6 +2,7 @@
 
 int main()
 {
+    while(1){
 
     int i, n, fact=1;
     printf("Enter any number: ");
@@ -12,6 +13,6 @@ int main()
     }
     printf("%d\n", fact);
 
-
+    }
     return 0;
 }
